@@ -17,7 +17,7 @@ Object relational mapper for Ultimo MVC
 	// add one or multiple connections
     $uormPlugin->addConnection('master', 'mysql:dbname=database_name;host=localhost', 'username', 'password');
 
-    $this->application->addPlugin($uormPlugin, 'uorm');
+    $application->addPlugin($uormPlugin, 'uorm');
 
 ### &lt;module&gt;/configs/uorm.ini
 	[production]
