@@ -1,5 +1,5 @@
 {
-    "name": "robvanaarle/ultimo-orm-mvc",
+    "name": "robvanaarle/ultimo-mvc-orm",
     "description": "Object relational mapper for Ultimo MVC",
     "type": "library",
     "keywords": [
@@ -23,13 +23,13 @@
       	},
       	{
         	"type": "vcs",
-        	"url": "https://github.com/robvanaarle/ultimo-config-mvc"
+        	"url": "https://github.com/robvanaarle/ultimo-mvc-config"
       	}
     ],
     "require": {
         "robvanaarle/ultimo-orm": "dev-master",
         "robvanaarle/ultimo-mvc": "dev-master",
-        "robvanaarle/ultimo-config-mvc": "dev-master"
+        "robvanaarle/ultimo-mvc-config": "dev-master"
     },
     "autoload": {
     		"psr-4": {

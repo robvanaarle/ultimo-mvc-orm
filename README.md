@@ -1,11 +1,11 @@
-# Ultimo ORM MVC
+# Ultimo MVC ORM
 Object relational mapper for Ultimo MVC
 
 ## Requirements
 * PHP 5.3
 * Ultimo ORM
 * Ultimo MVC
-* Ultimo Config MVC
+* Ultimo MVC Config
 
 ## Usage
 ### Register plugin
